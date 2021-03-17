@@ -1,8 +1,10 @@
 # Caption-Generator
 
-Completing this task gave me understanding in the principles of text pre-processing and text embeddings, experience working with an image to text model and the opportunity to perform comparative analysis between **RNNs** and **LSTMs** as sequence generators.
+This Project generates a caption for a given image using RNNs and Long Short Term Memory Network (LSTM).
 
-This task was implemented using Python and PyTorch and the data used was the Flickr8k image caption Dataset
+Completing this project gave me understanding in the principles of text pre-processing and text embeddings, experience working with an image to text model and the opportunity to perform comparative analysis between **RNNs** and **LSTMs** as sequence generators.
+
+This project was implemented using Python and PyTorch and the data used was the Flickr8k image caption Dataset
 
 ![sampleimageGroundtruthCaptions](https://user-images.githubusercontent.com/36918009/111329399-65107000-866f-11eb-9712-f70601e2a797.png)
 
